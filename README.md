@@ -27,7 +27,7 @@ Built as a multi-window application, it allows simultaneous monitoring of variou
 Documentation
 =============
 
-BroadView Analytics user guide can be found at [doc] (doc)
+BroadView Analytics user guide can be found at [doc] (doc/README.md)
 
 Legal
 =====
