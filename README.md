@@ -34,9 +34,3 @@ Legal
 
 Please see LEGAL_TERMS for the use of and access of the Broadcom-Switch Page
 
-License
-=======
-
-Licenses for the software are available at the applicable level of the
-software repository under the "LICENSE" file
-
