@@ -27,7 +27,7 @@ Built as a multi-window application, it allows simultaneous monitoring of variou
 Documentation
 =============
 
-BroadView Analytics user guide can be found at [doc] (https://github.com/Broadcom-Switch/BroadView-Analytics/tree/master/doc/README.md)
+BroadView Analytics user guide can be found at https://github.com/Broadcom-Switch/BroadView-Analytics/tree/master/doc
 
 Legal
 =====
