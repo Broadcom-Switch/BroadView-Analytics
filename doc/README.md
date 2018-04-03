@@ -29,7 +29,7 @@ The BroadView Analytics application runs in a Java Virtual Machine (JVM). Being 
 |Java Virtual Machine (JVM)|Java version 1.8 and above|
 |Hardware/System Verification Kit (SVK)|BCM56760, BCM56850, BCM56860, BCM56870, BCM56960 and BCM56965 silicon families|
 |Traffic Generator and Connectors|Traffic Generator to send traffic|
-|BroadView Agent Software Version|3.1.2.2|
+|BroadView Agent Software Version|3.2.0.2|
 
 Supported ASIC Families
 ===================

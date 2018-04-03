@@ -3,6 +3,8 @@ BroadView Analytics
 ===================
 BroadView Analytics Application provides the ability to visually manage and monitor various BroadView features.
 
+![Sample Screen](sample_screen.jpg)
+
 Overview
 ========
 BroadView Analytics is a Java based application that provides a GUI based interface to configure the BroadView Agent running on a switch system. The Analytics application typically runs outside the switch system, in an x86 server and uses REST API exported by the BroadView Agent. 
@@ -27,7 +29,7 @@ Built as a multi-window application, it allows simultaneous monitoring of variou
 Documentation
 =============
 
-BroadView Analytics user guide can be found at https://github.com/Broadcom-Switch/BroadView-Analytics/tree/master/doc
+BroadView Analytics user guide can be found at [doc](/doc/)
 
 Legal
 =====
